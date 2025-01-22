@@ -1,0 +1,23 @@
+{
+  "name": "coin",
+  "version": "1.0.0",
+  "description": "A sample Hardhat project that demonstrates:",
+  "homepage": "https://github.com/osamarehman/coin#readme",
+  "bugs": {
+    "url": "https://github.com/osamarehman/coin/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osamarehman/coin.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "harhat.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
